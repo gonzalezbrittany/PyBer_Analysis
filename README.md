@@ -17,7 +17,7 @@ The data plotted in the line graph above shows there is a difference in the sum 
 
 ## Summary
 
-Based on this analysis there are recommendations to help address the disparities amount the city types.
+Based on this analysis, there are recommendations to help address the disparities amount the city types.
 * Increase the number of drivers in rural cities. The data shows that the number of rides is almost twice as high as the number of drivers. By adding more drivers to help with ride demand this may increase the total fares for this city type.
 * Increase the number of drivers in suburban cities. The data shows that there is about 1/3  times more riders as there are drivers. By adding more drivers to help with ride demand this may increase the total fares for this city type.
 * Increase the fare cost for both rural and suburban towns. Since there appears to be quite a demand for rides for these city types, by increasing the fare cost this will both reduce the disparities among the city types while also increase profit for Pyber. 
